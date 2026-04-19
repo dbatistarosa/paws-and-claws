@@ -1,0 +1,20 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "OCwBTv8YCOT5hTg-ywA0g"
+uri = "file://artifacts/paws-and-claws/public/hero.png"
+type = "image"
+title = "Warm dog grooming hero scene"
+
+[[generated]]
+id = "3kRbXs5oM-5hfMuLlm9_-"
+uri = "file://artifacts/paws-and-claws/public/bath.png"
+type = "image"
+title = "Happy dog taking a bath"
+
+[[generated]]
+id = "1JozfaCtnOmpTcs4NGPbh"
+uri = "file://artifacts/paws-and-claws/public/cat.png"
+type = "image"
+title = "Cat getting brushed gently"
